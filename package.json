@@ -1,22 +1,19 @@
 {
-  "name": "react-window",
-  "version": "1.8.5",
+  "name": "react-window-media20",
+  "version": "1.8.5.1",
   "description":
-    "React components for efficiently rendering large, scrollable lists and tabular data",
+    "React components for efficiently rendering large, scrollable lists and tabular data with new component ",
   "author":
     "Brian Vaughn <brian.david.vaughn@gmail.com> (https://github.com/bvaughn/)",
   "contributors": [
-    "Brian Vaughn <brian.david.vaughn@gmail.com> (https://github.com/bvaughn/)"
+    "pandanax"
   ],
   "license": "MIT",
-  "homepage": "http://react-window.now.sh/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bvaughn/react-window.git"
+    "url": "https://github.com/media20/react-window.git"
   },
-  "bugs": {
-    "url": "https://github.com/bvaughn/react-window/issues"
-  },
+
   "engines": {
     "node": ">8.0.0"
   },
